@@ -1,6 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
 
+#groups{
+	padding: .75em 0 0.5em 0;
+	font-size: 3em;
+}
 h2, h3, h4, h5, h6{
 	margin: 0;
 	padding: 10px 0 0 0;
