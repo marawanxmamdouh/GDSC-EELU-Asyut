@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "gdsc-eelu-assiut",
+    "site": "gdsceeluasyut",
     "public": "public",
     "ignore": [
       "firebase.json",
